@@ -6,6 +6,8 @@ Output:
 <img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/f81f76b4-a3cc-4cf4-9fe7-38d6ba268a11" />
 <img width="1920" height="886" alt="image" src="https://github.com/user-attachments/assets/bd07a3cd-6edb-4765-b1d1-3af71bef92d2" />
 <img width="400" height="777" alt="image" src="https://github.com/user-attachments/assets/9e12b565-75c4-4746-aae1-21b857bf7bf2" />
+<img width="402" height="781" alt="image" src="https://github.com/user-attachments/assets/fab908a3-1dbc-42e8-999b-073cdb0e041e" />
+
 
 
 
